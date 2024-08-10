@@ -1,4 +1,4 @@
-# Web Application Firewall Bypass Fuzzer
+# Force Browsing Fuzzer
 
 This project features a Python script designed to bypass web application firewalls (WAFs) and is specifically used for force browsing in penetration testing. The script performs automated requests with various payloads to test the firewall's handling of different inputs and to extract cookies if the firewall indicates a need for them.
 
